@@ -301,17 +301,23 @@ docker run -p 5000:5000 lost-found-app
 - **Socket.IO** for real-time capabilities
 - **Community Contributors** for feedback and improvements
 
+## 📞 Support
+
+If you have any questions or need help:
+
+- **Create an Issue** on GitHub
+- **Check the Documentation** in the `/docs` folder
+- **Join our Community** discussions
+
+## 🔮 Future Enhancements
+
+- [ ] **Machine Learning** for better item matching
+- [ ] **Blockchain Integration** for item verification
+- [ ] **Multi-language Support** for global communities
+- [ ] **Advanced Analytics** and reporting
+- [ ] **Integration** with social media platforms
+- [ ] **Mobile Apps** for iOS and Android
 
 ---
 
 **Made with ❤️ for the community**
-
-
-<img width="1919" height="855" alt="image" src="https://github.com/user-attachments/assets/984eba66-279f-4da4-9948-fa6c02421157" />
-<img width="1876" height="911" alt="image" src="https://github.com/user-attachments/assets/0a9ff480-c6b8-4728-be53-3d236a232da1" />
-<img width="1918" height="864" alt="Screenshot 2025-09-13 140732" src="https://github.com/user-attachments/assets/8255d60d-4c7f-4621-88a7-8db1b72d5161" />
-<img width="1579" height="887" alt="Screenshot 2025-09-13 140829" src="https://github.com/user-attachments/assets/675eb83e-899a-4ee0-9250-b8726c2c9b25" />
-
-<img width="1770" height="888" alt="image" src="https://github.com/user-attachments/assets/6aa20fba-0051-47c3-9fa0-a8e1f458ce43" />
-<img width="1848" height="909" alt="image" src="https://github.com/user-attachments/assets/5477b904-016a-4aa2-898e-7b62534cf9e4" />
-
