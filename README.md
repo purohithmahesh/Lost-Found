@@ -301,22 +301,6 @@ docker run -p 5000:5000 lost-found-app
 - **Socket.IO** for real-time capabilities
 - **Community Contributors** for feedback and improvements
 
-## 📞 Support
-
-If you have any questions or need help:
-
-- **Create an Issue** on GitHub
-- **Check the Documentation** in the `/docs` folder
-- **Join our Community** discussions
-
-## 🔮 Future Enhancements
-
-- [ ] **Machine Learning** for better item matching
-- [ ] **Blockchain Integration** for item verification
-- [ ] **Multi-language Support** for global communities
-- [ ] **Advanced Analytics** and reporting
-- [ ] **Integration** with social media platforms
-- [ ] **Mobile Apps** for iOS and Android
 
 ---
 
