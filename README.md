@@ -1,4 +1,4 @@
-# Lost & Found Community Web App 🎯
+<img width="1919" height="855" alt="Screenshot 2025-09-13 174237" src="https://github.com/user-attachments/assets/8a930d11-0eb1-4516-a61b-5c04acaa4f0e" /># Lost & Found Community Web App 🎯
 
 A comprehensive community-driven web application for helping people find lost items and return found items to their owners. Built with modern web technologies and featuring real-time communication, AI-powered matching, and gamification elements.
 
@@ -301,23 +301,17 @@ docker run -p 5000:5000 lost-found-app
 - **Socket.IO** for real-time capabilities
 - **Community Contributors** for feedback and improvements
 
-## 📞 Support
 
-If you have any questions or need help:
 
-- **Create an Issue** on GitHub
-- **Check the Documentation** in the `/docs` folder
-- **Join our Community** discussions
 
-## 🔮 Future Enhancements
+<img width="1919" height="855" alt="Screenshot 2025-09-13 174237" src="https://github.com/user-attachments/assets/42111a65-cc7a-448b-a725-e091e834a280" />
 
-- [ ] **Machine Learning** for better item matching
-- [ ] **Blockchain Integration** for item verification
-- [ ] **Multi-language Support** for global communities
-- [ ] **Advanced Analytics** and reporting
-- [ ] **Integration** with social media platforms
-- [ ] **Mobile Apps** for iOS and Android
 
----
+<img width="1770" height="888" alt="Screenshot 2025-09-13 174324" src="https://github.com/user-attachments/assets/2ff07cb2-1c58-4f01-9937-1c028ae89a5a" />
 
-**Made with ❤️ for the community**
+
+<img width="1848" height="909" alt="Screenshot 2025-09-13 174355" src="https://github.com/user-attachments/assets/3a475518-17b9-4553-b5f3-1212c0e40e27" />
+
+<img width="1876" height="911" alt="Screenshot 2025-09-13 174430" src="https://github.com/user-attachments/assets/16d6449c-fce1-4fda-9e1b-95a141130055" />
+<img width="1579" height="887" alt="Screenshot 2025-09-13 140829" src="https://github.com/user-attachments/assets/f7f763f8-55eb-409a-9b8e-67dfafa6b351" />
+<img width="1918" height="864" alt="Screenshot 2025-09-13 140732" src="https://github.com/user-attachments/assets/d85d270f-95e6-42ef-a4c2-f3d8bd65a588" />
